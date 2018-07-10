@@ -1,7 +1,7 @@
 
 /**  The name value attribut of input html element*/
 const VALUE_ATTRIBUTE = 'value';
-/** input first number box */
+/** input first number boXXXXXXXXXXXXXX */
 
 const INPUT_1 = 'input1';
 /** input second number box */
